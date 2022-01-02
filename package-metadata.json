@@ -1,0 +1,10 @@
+{
+    "dependencies": [],
+    "description": "Developer Journal Macros for Sublime Text 4",
+    "platforms": [
+        "*"
+    ],
+    "sublime_text": "*",
+    "url": "tbd",
+    "version": "0"
+}
